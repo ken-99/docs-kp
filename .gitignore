@@ -31,3 +31,6 @@ PLAN.md
 PRD.md
 ARCHITECTURE.md
 docs/NOTES_KP.md
+
+# local secrets
+.env
